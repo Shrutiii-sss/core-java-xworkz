@@ -1,0 +1,43 @@
+class EarPhone{
+
+//static variable
+  
+    static   String brandName ;
+    static    int price;
+    static    String color;
+    static   boolean isVolumeButtonAvailable;
+    static	 String warranty ;
+    static	 String headPhonesJack;
+	static String noiseControl ;
+	 
+	 public static void main(String earphone[]){
+		 //local variable
+	  
+	  System.out.println("The brandName is "+ brandName);
+      System.out.println("The price is "+ price);
+      System.out.println("The color is "+ color);
+      System.out.println("Is volume button available "+ isVolumeButtonAvailable);
+	  System.out.println("The warranty is "+ warranty);
+	  System.out.println("The headPhonesJack is "+ headPhonesJack);
+	  System.out.println("The noiseControl is "+ noiseControl);
+	  
+	  //edit
+	  String brandName = "Boat";
+	  int price = 1200;
+	  String color = "White";
+	  boolean isVolumeButtonAvailable = true;
+	  String warranty = "1 yr";
+	  String headPhonesJack = "3.5mm";
+	  String noiseControl  = "3.5mm";
+	  
+	   System.out.println("The brandName is "+ brandName);
+      System.out.println("The price is "+ price);
+      System.out.println("The color is "+ color);
+      System.out.println("Is volume button available "+ isVolumeButtonAvailable);
+	  System.out.println("The warranty is "+ warranty);
+	  System.out.println("The headPhonesJack is "+ headPhonesJack);
+	  System.out.println("The noiseControl is "+ noiseControl);
+	  
+     	 
+  }
+}
