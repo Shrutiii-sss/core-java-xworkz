@@ -1,5 +1,7 @@
 class WaterHeater{
 
+
+
  String name;
  String capacity;
  int price;

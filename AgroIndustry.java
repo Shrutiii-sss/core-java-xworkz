@@ -1,8 +1,7 @@
 class AgroIndustry{
 	
 	
-	
-	
+
 	
 
   String name;

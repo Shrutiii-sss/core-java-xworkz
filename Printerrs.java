@@ -1,6 +1,8 @@
 class Printerrs{
 	
-	
+public Printerrs(){
+System.out.println("Printerrs constractor is invoked");
+}	
 	
 
 String Brandname;

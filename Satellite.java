@@ -1,5 +1,6 @@
 class Satellite{
 
+
 	
 	
   String name;

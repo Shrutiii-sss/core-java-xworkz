@@ -1,6 +1,6 @@
 class Ship{
 	
-	
+
 
   String name;
   String purpose;

@@ -1,6 +1,8 @@
 class Toys{
 	
-	
+public Toys(){
+System.out.println("Toys constractor is invoked");
+}	
  	
 	
 	

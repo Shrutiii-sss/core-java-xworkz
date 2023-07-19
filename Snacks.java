@@ -1,4 +1,6 @@
 lass Snacks{
+	
+	
  String name;
  String type;
  int price;

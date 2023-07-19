@@ -1,7 +1,6 @@
 class SuitCase{
 	
 	
-		
  
  String brandName;
  String weight;

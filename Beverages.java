@@ -2,7 +2,6 @@ class Beverages{
  
 
  
- 
  String name;
  String flavour;
  String type;

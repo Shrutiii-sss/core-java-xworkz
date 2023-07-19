@@ -1,4 +1,4 @@
-class MusicalInstruments{
+class MusicalInstrument{
 	
 	
 	

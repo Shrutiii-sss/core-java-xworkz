@@ -1,7 +1,6 @@
 class Helmet{
 	
 	
-	
  String name;
  String type;
  int price;

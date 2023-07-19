@@ -1,6 +1,7 @@
-class Doors
-{
-
+class Doors{
+	
+	
+	
  String name;
  String type;
  int price;
